@@ -29,6 +29,7 @@ function App() {
       </div>
       <StarWarsTitle />
       <p>Probamos a hacer un commit desde el usuario desarrollo nevado, usando github</p>
+      <p>Probamos a hacer un commit desde Jorge Nevado, despues de hacer el fork con desarrollo nevado</p>
     </div>
   );
 }
