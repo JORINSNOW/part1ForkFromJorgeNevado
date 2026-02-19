@@ -35,6 +35,7 @@ function App() {
         <h2>Ejemplo de Contador</h2>
         <Contador valor={0} incrementar={() => console.log("Incrementar")} decrementar={() => console.log("Decrementar")} />
       </div>
+      <p>Vamos con los cambios usando commit y push origin main, esto es desde el pc del trabajo, desde la cuenta de3 desarrollo nevado a la cuenta de jorge nevado palomares</p>
     </div>
   );
 }
